@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+#テスト
 
 def main():
     a = [1, 2, 3]
