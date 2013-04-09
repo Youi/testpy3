@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 def main():
-    print("hoge")
+    print("ほげ")
     pass
 
 if __name__ == '__main__':
