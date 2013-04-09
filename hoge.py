@@ -13,7 +13,6 @@ def main():
     }
     for k,v in d.items():
         print(k + ': ' + str(v + 1))
-    pass
 
 if __name__ == '__main__':
     main()
