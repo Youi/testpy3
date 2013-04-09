@@ -1,7 +1,9 @@
 # -*- coding: UTF-8 -*-
 
 def main():
-    print("ほげ")
+    a = [1, 2, 3]
+    for i in a:
+        print(i)
     pass
 
 if __name__ == '__main__':
